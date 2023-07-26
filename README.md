@@ -20,8 +20,11 @@
 ## Github Integrantes
 
 • Bastián Mariangel : https://github.com/BastianMariangel/Modulo_5_Sprint5
+
 • Roberto Rivas : https://github.com/RobertoRivasL/Sprint-5
+
 • Iván Mieres : https://github.com/iamamieres/Sprint5_Java
+
 • Patricio Bonnin : https://github.com/patriciobonnin/M5_-_Sprint_Final_Modulo_5_Desarrollo_de_Aplicaciones_Web_Dinanicas_Java
 
 ## Informacion de Archivos del proyecto
