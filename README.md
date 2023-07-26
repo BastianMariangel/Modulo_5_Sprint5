@@ -33,9 +33,9 @@ Ver [pom.xml](https://github.com/RobertoRivasL/Sprint-5/blob/main/pom.xml)
  - [Bootstrap v5.3](https://getbootstrap.com)
 
  ### Otros
- - [Shileds.io](https://shields.io/)
+ - [Shields.io](https://shields.io/)
 
-### Concimientos
+### Conocimientos
 •        HTML
 •        Hojas de estilo
 •        Responsividad
@@ -54,19 +54,21 @@ Ver [pom.xml](https://github.com/RobertoRivasL/Sprint-5/blob/main/pom.xml)
 
 ![Inicio](https://media.discordapp.net/attachments/1111842934489370676/1133851625669271675/image.png?width=1238&height=662 "Página de inicio")
 
-![Login](https://media.discordapp.net/attachments/1111842934489370676/1133849839982092398/image.png?width=516&height=662 "Página de Login")
+![Login](https://cdn.discordapp.com/attachments/1111842934489370676/1133849562407243826/image.png "Página de Login")
 
 ![Pagina Inicio](https://media.discordapp.net/attachments/1111842934489370676/1133857212658368603/image.png?width=1242&height=661 "Página Inicio")
 
 ![Listados y Creacion](https://media.discordapp.net/attachments/1111842934489370676/1133850297547096196/image.png?width=1268&height=530 "Página Listados")
 
-![Listados Capacitaciones](https://media.discordapp.net/attachments/1111842934489370676/1133850004994396180/image.png?width=1440&height=288 "Capacitaciones")")
+![Listados Capacitaciones](https://media.discordapp.net/attachments/1111842934489370676/1133850004994396180/image.png?width=1440&height=288 "Capacitaciones")
 
 ![Listado, Creaccion, Eliminacion, Editar Clientes, Administrativo, Profesional](https://media.discordapp.net/attachments/1111842934489370676/1133850245554511932/image.png?width=1196&height=662 "Página Listado, Creacion, Eliminacion,Edicion")
 
 ![Team](https://media.discordapp.net/attachments/1111842934489370676/1133850539914969248/image.png?width=1191&height=662 "Team Sala 2 ")
 
 ![Despliegue War](https://media.discordapp.net/attachments/1111842934489370676/1133851523374395535/image.png?width=1440&height=355 "War ")
+
+![Pagina Contacto](https://cdn.discordapp.com/attachments/1111842934489370676/1133849839982092398/image.png "Página Contacto")
 
 ![Correo](https://media.discordapp.net/attachments/1111842934489370676/1133849880750723112/image.png?width=983&height=135 "Envio Correo ")
 
