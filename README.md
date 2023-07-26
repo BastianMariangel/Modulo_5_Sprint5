@@ -34,7 +34,7 @@ en el archivo Conexion.java en la ruta: src\main\java\conexion\Conexion.java
 
 • La base de datos se encuentra en :  src\main\resources\bdPrevRiesgo.sql
 
-• El Archivo WAR del Proyecto se encuentra en : src\main\resources\Prevencion_De_Riesgos
+• El Archivo WAR del Proyecto se encuentra en : src\main\resources\Prevencion_De_Riesgos.war
 
 # Detalle
 Proyecto final del módulo aplicando los conceptos vistos en las sesiones respectivas. Se debe generar una aplicación web dinámica, usando el patrón de diseño MVC.
